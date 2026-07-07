@@ -5,8 +5,7 @@
 The To-Do List application is a simple desktop program developed using **Python** and the **Tkinter** library. It helps users keep track of their daily tasks in an easy and organized way. Users can add new tasks, delete selected tasks, and clear all tasks with a simple graphical user interface (GUI).
 
 ## Internship Details
-- Name : Simranjit Kaur
-- Intern ID : CITS3897
+- Name : Taniya
 - Organistation : CODTECH
 
 ## Features
